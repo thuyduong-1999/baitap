@@ -1,0 +1,44 @@
+.header h1{
+    text-align: center;
+    padding-top: 2%;
+    font-size: 3em;
+    color: white;
+    text-shadow: 5px 3px 5px #101010;
+    letter-spacing: 8px;
+}
+form{
+    width: 350px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+.form-group{
+    position: relative;
+}
+span.icon1, span.icon2{
+    color: #ea2858;
+    position: absolute;
+    right:5%
+} 
+span.icon1 {
+    top: 20%;
+}
+span.icon2 {
+    top: 20%;
+}
+.login{
+    margin-left: 81%;
+    color:  white;
+    font-size: 20px;
+    background:#ea2858;
+   
+}
+.registration{
+    color:  white;
+    font-size: 20px;
+    background:#ea2858;
+}
+.index{
+    color:  white;
+    font-size: 20px;
+    background:#ea2858;
+}

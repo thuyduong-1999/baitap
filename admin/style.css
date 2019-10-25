@@ -1,0 +1,21 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+h2{
+text-align: center;
+margin: 20px;
+}
+.list-course{
+    margin:50px;
+    border: 1px solid black;
+    margin: auto;
+}
+td{
+    color: purple;
+    padding: 5px;
+}
+.task{
+    padding: 20px;
+    text-align: center;
+}
